@@ -7,7 +7,7 @@
     "url": "https://github.com/devlimelabs/ngxcms.git"
   },
   "contributors": [
-    "Austin Hodge <austinbhodge@gmail.com>",
+    "Austin Hodge <austinbhodge@gmail.com>"
   ],
   "scripts": {
     "ng": "ng",
